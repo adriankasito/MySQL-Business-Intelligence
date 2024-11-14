@@ -101,4 +101,4 @@ This repository contains SQL scripts for analyzing customer behavior, order tren
 
 ---
 
-Feel free to contribute and improve the analysis!
+Feel free to contribute and help me improve the analysis..
